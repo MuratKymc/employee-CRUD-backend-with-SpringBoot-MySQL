@@ -1,7 +1,7 @@
 # Spring Boot : employee-CRUD-backend-with-SpringBoot-MySQL
 
 ### Frontend:
-You can see the frontend part of the project by following this link: https://github.com/MuratKymc/insuranceCampaignProject-frontend.git
+You can see the frontend part of the project by following this link: https://github.com/MuratKymc/employee-CRUD-frontend-with-Angular.git
 
 ## Introduction
 An example application where the user can perform CRUD operations on the customer database
